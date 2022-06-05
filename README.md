@@ -1,2 +1,2 @@
 # RSSCHOOL
-[My CV file](https://github.com/GORALCHUKEKATERINA/rsschool-cv/cv)
+[My CV file](https://github.com/GORALCHUKEKATERINA/rsschool-cv/blob/gh-pages/cv.md)
